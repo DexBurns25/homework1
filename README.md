@@ -3,8 +3,7 @@
 Code Refractor
 
 ## Description
-The end goal of this project was to refractor code to ensure that it meet accessibility and readaibilty standards.
-No functionality has changed but the structure of the code itself has been improved, considated, and semantically aligned. 
+
 
 
 ## Changes made from original
@@ -20,7 +19,7 @@ No functionality has changed but the structure of the code itself has been impro
 
 
 ## Links
-
+https://github.com/DexBurns25/homework1.git
 
 ## Finished Product - Image
-![Horiseon Webpage Image](./horiseon.png)
+![Horiseon](https://github.com/DexBurns25/homework1/blob/master/horiseon.png)
