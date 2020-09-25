@@ -2,24 +2,20 @@
 
 Code Refractor
 
-## Description
-
+## Description 
+making the pages assessible to all readers. 
 
 
 ## Changes made from original
-* Replaced div tags with semantic elements, as applicable. 
-* Added comments to html to detect diferences between sections
-* Added alt attributes to all image
+* Replaced Div tags  
 * Combined CSS rules
-* Added comments to CSS
-* Ensured heading tags were sequentialy placed
-* Updated tite attribute
-
+* created Repository
 
 
 
 ## Links
 https://github.com/DexBurns25/homework1.git
+https://dexburns25.github.io/homework1/
 
 ## Finished Product - Image
 ![Horiseon](https://github.com/DexBurns25/homework1/blob/master/horiseon.png)
