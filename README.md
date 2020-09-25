@@ -20,8 +20,7 @@ No functionality has changed but the structure of the code itself has been impro
 
 
 ## Links
-Repo: https://github.com/JerronM/code-refractor
-Live Link: https://jerronm.github.io/code-refractor/
+
 
 ## Finished Product - Image
 ![Horiseon Webpage Image](./horiseon.png)
